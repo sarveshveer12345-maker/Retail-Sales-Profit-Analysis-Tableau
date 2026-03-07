@@ -1,0 +1,21 @@
+OrderID	OrderDate	Region	State	City	Category	Sales	Profit	Quantity	Discount	CustomerSegment	SubCategory	SalesPerson
+ORD001	05-01-2023	West	Maharashtra	Mumbai	Technology	32000	5200	3	0.1	Consumer	Phones	Amit 
+ORD002	07-02-2023	South	Karnataka	Bengaluru	Furniture	18500	2100	2	0.05	Corporate	Chairs	Neha 
+ORD003	08-02-2023	North	Delhi	New Delhi	Office Supplies	4500	800	5	0	Home Office	Binders	Rohit 
+ORD004	10-03-2023	East	West Bengal	Kolkata	Technology	56000	9200	2	0.15	Consumer	Laptops	Pooja 
+ORD005	12-04-2023	South	Tamil Nadu	Chennai	Furniture	23000	-1200	1	0.2	Corporate	Tables	Karan 
+ORD006	14-04-2023	West	Gujarat	Ahmedabad	Office Supplies	3200	450	8	0	Consumer	Paper	Sneha 
+ORD007	16-05-2023	North	Uttar Pradesh	Lucknow	Technology	7800	1200	4	0.05	Home Office	Accessories	Arjun 
+ORD008	18-05-2023	South	Kerala	Kochi	Furniture	19500	3100	2	0.1	Consumer	Bookcases	Priya 
+ORD009	20-06-2023	East	Odisha	Bhubaneswar	Office Supplies	2600	350	6	0	Corporate	Envelopes	Vikas 
+ORD010	22-06-2023	West	Rajasthan	Jaipur	Technology	29000	4800	3	0.1	Consumer	Phones	Ananya 
+ORD011	02-07-2023	South	Telangana	Hyderabad	Office Supplies	8700	1400	4	0.05	Corporate	Storage	Vivek
+ORD012	04-08-2023	North	Haryana	Gurgaon	Technology	61000	9800	2	0.1	Consumer	Laptops	Soumya
+ORD013	06-08-2023	East	Assam	Guwahati	Furniture	14200	1800	2	0.05	Home Office	Chairs	Sahil
+ORD014	08-09-2023	South	Karnataka	Mysuru	Office Supplies	2100	300	5	0	Consumer	Labels	Aditya
+ORD015	10-09-2023	West	Madhya Pradesh	Indore	Technology	9600	1600	4	0.05	Corporate	Accessories	Vikram
+ORD016	12-10-2023	North	Punjab	Ludhiana	Furniture	27500	-900	1	0.2	Consumer	Tables	Vinet
+ORD017	14-10-2023	East	Bihar	Patna	Office Supplies	5300	750	6	0	Home Office	Binders	Ramya
+ORD018	16-11-2023	South	Andhra Pradesh	Vizag	Technology	35000	5400	3	0.1	Consumer	Phones	Sonal
+ORD019	18-12-2023	West	Goa	Panaji	Furniture	16800	2400	2	0.05	Corporate	Chairs	Veresh
+ORD020	20-12-2023	North	Himachal Pradesh	Shimla	Office Supplies	2900	380	7	0	Consumer	Paper	Suman
