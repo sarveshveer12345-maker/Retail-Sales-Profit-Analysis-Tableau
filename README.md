@@ -173,7 +173,7 @@ These visualizations allow quick identification of high-performing products and 
 
 - Implement targeted marketing campaigns for the Consumer segment to increase retention and repeat purchases.
 
-- Replicate successful sales strategies from high-performing states in lower-performing regions like Gujrat, Odisha and Himachal Pradesh.
+- Replicate successful sales strategies from high-performing states in lower-performing states like Gujrat, Odisha and Himachal Pradesh.
 
 - Plan seasonal promotions and demand forecasting to handle monthly sales fluctuations.
 
