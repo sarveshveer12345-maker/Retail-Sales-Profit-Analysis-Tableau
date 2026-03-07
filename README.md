@@ -52,7 +52,7 @@ Key objectives include:
 
 Below is a preview of the dataset used for this analysis.
 
-![Dataset Preview](Dashboard_Screenshots/dataset_preview.png)
+![Dataset Preview](dataset_preview.png)
 
 ---
 
