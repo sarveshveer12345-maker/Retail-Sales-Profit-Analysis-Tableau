@@ -72,12 +72,12 @@ Region | Sales region |
 State | State where the order occurred |
 City | City of the transaction |
 Category | Product category |
-SubCategory | Product sub-category |
 Sales | Revenue generated from the order |
 Profit | Profit earned from the order |
 Quantity | Number of items sold |
 Discount | Discount applied to the sale |
 CustomerSegment | Customer type |
+SubCategory | Product sub-category |
 SalesPerson | Sales representative responsible |
 
 All monetary values are recorded in **Indian Rupees (₹).**
