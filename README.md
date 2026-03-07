@@ -128,7 +128,7 @@ Key metrics included in the sales dashboard:
 
 ## Dashboard Visualization
 
-![Sales Dashboard](Dashboard_Screenshots/sales_dashboard.png)
+![Sales Dashboard](sales_dashboard.png)
 
 ---
 
@@ -208,7 +208,7 @@ Key profitability metrics include:
 
 ## Dashboard Visualization
 
-![Profit Dashboard](Dashboard_Screenshots/profit_dashboard.png)
+![Profit Dashboard](profit_dashboard.png)
 
 ---
 
@@ -295,15 +295,21 @@ This repository contains the following files:
 
 # Project Structure
 
-Retail-Sales-Analysis-Tableau/
+Retail-Sales-Profit-Analysis-Tableau
 │
-├── README.md
-├── raw_sales_data.txt
-├── cleaned_sales_dataset.xlsx
-├── retail_sales_analysis_dashboard.twbx
-├── dataset_preview.png
-├── sales_dashboard.png
-└── profit_dashboard.png
+├── data
+│   ├── raw_sales_data.txt
+│   └── cleaned_sales_dataset.xlsx
+│
+├── dashboards
+│   └── retail_sales_analysis_dashboard.twbx
+│
+├── images
+│   ├── dataset_preview.png
+│   ├── sales_dashboard.png
+│   └── profit_dashboard.png
+│
+└── README.md
 
 ---
 
