@@ -214,6 +214,10 @@ Key profitability metrics include:
 
 ![Profit Dashboard](profit_dashboard.png)
 
+**Interactive Dashboard:**  
+View the interactive version on Tableau Public: 
+https://public.tableau.com/app/profile/sarvesh.vernekar/viz/retail_sales_analysis_dashboard/ProfitAnalysis?publish=yes
+
 ---
 
 ## Dashboard Features
