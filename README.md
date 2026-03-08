@@ -1,4 +1,4 @@
-# Retail Sales & Profit Analysis Dashboard (Tableau)
+<img width="70" height="27" alt="image" src="https://github.com/user-attachments/assets/548b25c2-549b-47f7-8bf3-51c24aa2c140" /># Retail Sales & Profit Analysis Dashboard (Tableau)
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project analyzes retail sales transactions across different regions of Indi
 
 The analysis follows a structured data analytics workflow:
 
-Raw Data → Data Cleaning → Data Analysis → Dashboard Visualization → Business Insights
+Raw Data - Data Cleaning - Data Analysis - Dashboard Visualization - Business Insights
 
 Two analytical dashboards were developed:
 
