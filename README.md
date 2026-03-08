@@ -130,6 +130,10 @@ Key metrics included in the sales dashboard:
 
 ![Sales Dashboard](sales_dashboard.png)
 
+**Interactive Dashboard:**  
+View the interactive version on Tableau Public:
+https://public.tableau.com/app/profile/sarvesh.vernekar/viz/retail_sales_analysis_dashboard/SalesAnalysis?publish=yes
+
 ---
 
 ## Dashboard Features
