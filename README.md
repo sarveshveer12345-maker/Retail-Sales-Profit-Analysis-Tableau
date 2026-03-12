@@ -1,4 +1,4 @@
-<img width="70" height="27" alt="image" src="https://github.com/user-attachments/assets/548b25c2-549b-47f7-8bf3-51c24aa2c140" /># Retail Sales & Profit Analysis Dashboard (Tableau)
+# Retail Sales & Profit Analysis Dashboard (Tableau)
 
 ## Project Overview
 
