@@ -17,7 +17,7 @@ These dashboards provide business insights that help identify revenue drivers, p
 
 ---
 
-# Business Context
+## Business Context
 
 A retail company operating across multiple regions in India wants to better understand its sales performance and profitability patterns.
 
@@ -33,7 +33,7 @@ The insights from this analysis can help the company improve pricing strategies,
 
 ---
 
-# Business Objective
+## Business Objective
 
 The primary objective of this project is to transform raw transactional sales data into meaningful business insights that support data-driven decision making.
 
@@ -48,7 +48,7 @@ Key objectives include:
 
 ---
 
-# Dataset Preview
+## Dataset Preview
 
 Below is a preview of the dataset used for this analysis.
 
@@ -56,7 +56,7 @@ Below is a preview of the dataset used for this analysis.
 
 ---
 
-# Dataset Information
+## Dataset Information
 
 The dataset contains **20 retail sales transactions** recorded during the year **2023** across different regions of India.
 
@@ -84,7 +84,7 @@ All monetary values are recorded in **Indian Rupees (₹).**
 
 ---
 
-# Data Cleaning Process
+## Data Cleaning Process
 
 The original dataset was received in **raw text format** and required preprocessing before analysis.
 
@@ -268,14 +268,14 @@ These visuals help identify profitability drivers and potential business risks.
 
 ---
 
-# Tools Used
+## Tools Used
 
 - Microsoft Excel – Data cleaning and preparation  
 - Tableau – Data visualization and dashboard development  
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning  
 - Data Preparation  
@@ -288,7 +288,7 @@ These visuals help identify profitability drivers and potential business risks.
 
 ---
 
-# Files Included
+## Files Included
 
 This repository contains the following files:
 
@@ -301,7 +301,7 @@ This repository contains the following files:
 
 ---
 
-# Project Structure
+## Project Structure
 
 Retail-Sales-Profit-Analysis-Tableau
 │
@@ -321,7 +321,7 @@ Retail-Sales-Profit-Analysis-Tableau
 
 ---
 
-# How to Use
+## How to Use
 
 1. Download or clone the repository
 2. Open the Tableau packaged workbook (.twbx)
@@ -330,7 +330,7 @@ Retail-Sales-Profit-Analysis-Tableau
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 The repository is organized to separate:
 
@@ -346,7 +346,7 @@ This structure ensures clarity and easy navigation.
 
 ---
 
-# Dataset Limitations
+## Dataset Limitations
 
 While the dataset provides useful insights, it has certain limitations:
 
@@ -358,7 +358,7 @@ Despite these limitations, the dataset effectively demonstrates the data analyti
 
 ---
 
-# Author
+## Author
 
 Sarvesh Vernekar
 
