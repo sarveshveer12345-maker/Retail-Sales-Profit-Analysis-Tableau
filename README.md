@@ -303,6 +303,7 @@ This repository contains the following files:
 
 ## Project Structure
 
+```
 Retail-Sales-Profit-Analysis-Tableau
 │
 ├── data
@@ -318,6 +319,7 @@ Retail-Sales-Profit-Analysis-Tableau
 │   └── profit_dashboard.png
 │
 └── README.md
+```
 
 ---
 
