@@ -75,14 +75,14 @@ Below is a preview of the dataset used for this analysis.
 
 ---
 
-## Dataset Information
-
 ### Dataset Limitations
 
-- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than    conclusive
+- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than conclusive
 - The dataset contains only 20 transactions which limits large-scale trend analysis
 - The dataset represents a simplified retail scenario
 - Additional variables such as product cost, inventory levels, and customer lifetime value could enable deeper analysis
+
+## Dataset Information
 
 ### Dataset Fields
 
@@ -184,7 +184,7 @@ Key metrics included in the sales dashboard:
 
 - The Consumer segment generates the highest sales, showing that individual customers dominate the market.
 
-- Haryana state accounts for a large portion of total sales with ₹61k.
+- Haryana state accounts for a large portion of total sales with ₹61K.
 
 - Sales fluctuate across different months, suggesting seasonal demand patterns.
 
@@ -272,7 +272,7 @@ Key profitability metrics include:
  
 - Profit fluctuates throughout the year indicating varying sales performance.
 
-- Punjab and Tamil Nadu generates negative profit.
+- Punjab and Tamil Nadu generate negative profit.
 
 
 ### Business Recommendations
@@ -293,16 +293,16 @@ Key profitability metrics include:
 
 ## Conclusion
 
-The analysis shows that business performance is profit-driven but uneven, with a significant portion of total profit coming from a limited number of products and categories.
+The analysis shows that business performance is profit-driven but uneven, with a significant portion of total profit coming from a limited number of categories and sub-categories.
 
-While revenue remains strong, profit distribution is concentrated, creating risk if key products underperform. Additionally, the presence of lower-profit products suggests inefficiencies in the current product portfolio.
+While revenue remains strong, profit distribution is concentrated, creating risk if key segments underperform. Additionally, the presence of lower-profit sub-categories suggests inefficiencies in the current product mix.
 
 Regional and category-level variations indicate that not all sales contribute equally to business value, reinforcing the need to evaluate performance beyond revenue.
 
 To achieve sustainable growth, the business must shift focus toward:
 
-- Profit contribution by product and category
-- Reducing dependency on top-performing products
+- Profit contribution by category and sub-category
+- Reducing dependency on top-performing segments
 - Improving overall profit efficiency across regions
 
 A more balanced and profit-focused strategy will be critical for long-term success.
@@ -311,11 +311,11 @@ A more balanced and profit-focused strategy will be critical for long-term succe
 
 ## Strategic Takeaway
 
-The business is generating revenue effectively, but profitability is uneven across regions, products, and sales channels.
+The business is generating revenue effectively, but profitability is uneven across regions, categories, sub-categories, and sales performance dimensions.
 
 A significant portion of profit is driven by specific products (e.g., laptops, phones) and top-performing salespersons, while certain sub-categories (such as Tables) and regions contribute negatively.
 
-To achieve sustainable growth, the business must shift from overall sales growth to consistent profit generation across products, regions, and sales teams.
+To achieve sustainable growth, the business must shift from overall sales growth to consistent profit generation across categories, sub-categories, regions, and salesperson performance.
 
 ---
 
