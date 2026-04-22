@@ -271,7 +271,7 @@ Key profitability metrics include:
 
 - Focus marketing and inventory efforts in the West region to maximize profitability in the highest profit-generating market.
 
-- Promote high-margin sub-categories like laptops and phones to further increase overall profit.
+- Promote high profit-contributing sub-categories like laptops and phones to further increase overall profit.
 
 - Analyze and replicate the sales strategies of Soumya and Pooja to improve overall team profitability.
 
