@@ -21,7 +21,7 @@ These dashboards provide business insights that help identify revenue drivers, p
 
 This project analyzes retail sales and profitability to identify not just revenue performance, but where the business is actually making or losing money.
 
-The analysis reveals that while certain products and categories generate strong sales, profitability is uneven and often concentrated in a limited set of high-performing products. At the same time, some products contribute to revenue but deliver weak or inconsistent profit, indicating potential inefficiencies in product mix and cost structure.
+The analysis reveals that while certain categories and sub-categories generate strong sales, profitability is uneven and often concentrated in a limited set of high-performing segments. At the same time, some sub-categories contribute to revenue but deliver weak profit, indicating potential inefficiencies in product mix and cost structure.
 
 Regional and category-level differences further highlight that high sales volume does not always translate into strong profit performance, suggesting gaps in pricing, cost control, or product strategy.
 
@@ -42,10 +42,10 @@ A retail company operating across multiple regions in India wants to better unde
 
 Management is interested in identifying:
 
-- Which products generate the most revenue  
+- Which categories and sub-categories generate the most revenue  
 - Which regions contribute the highest profit  
 - Which sales representatives perform the best  
-- Which products are generating losses  
+- Which sub-categories are generating losses   
 - How sales and profits change throughout the year  
 
 The insights from this analysis can help the company improve pricing strategies, optimize inventory planning, and focus on profitable product segments.
@@ -59,7 +59,7 @@ The primary objective of this project is to transform raw transactional sales da
 Key objectives include:
 
 - Understanding sales performance across regions  
-- Identifying high-revenue product categories  
+- Identifying sub-categories that generate losses 
 - Evaluating profitability by product sub-category  
 - Measuring salesperson performance  
 - Monitoring sales and profit trends over time  
@@ -74,13 +74,6 @@ Below is a preview of the dataset used for this analysis.
 ![Dataset Preview](dataset_preview.png)
 
 ---
-
-### Dataset Limitations
-
-- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than conclusive
-- The dataset contains only 20 transactions which limits large-scale trend analysis
-- The dataset represents a simplified retail scenario
-- Additional variables such as product cost, inventory levels, and customer lifetime value could enable deeper analysis
 
 ## Dataset Information
 
@@ -313,7 +306,7 @@ A more balanced and profit-focused strategy will be critical for long-term succe
 
 The business is generating revenue effectively, but profitability is uneven across regions, categories, sub-categories, and sales performance dimensions.
 
-A significant portion of profit is driven by specific products (e.g., laptops, phones) and top-performing salespersons, while certain sub-categories (such as Tables) and regions contribute negatively.
+A significant portion of profit is driven by specific sub-categories (e.g., laptops, phones) and top-performing salespersons, while certain sub-categories (such as Tables) and regions contribute negatively.
 
 To achieve sustainable growth, the business must shift from overall sales growth to consistent profit generation across categories, sub-categories, regions, and salesperson performance.
 
@@ -324,7 +317,7 @@ To achieve sustainable growth, the business must shift from overall sales growth
 If these recommendations are implemented, the business can:
 
 - Improve profit margins by addressing loss-making sub-categories such as Tables and optimizing pricing or cost structures
-- Increase profitability by focusing on high-performing product segments like laptops and phones
+- Increase profitability by focusing on high-performing sub-categories such as laptops and phones
 - Reduce financial losses by fixing underperforming regions such as Punjab and Tamil Nadu
 - Improve sales team effectiveness by scaling strategies used by top performers like Soumya and Pooja
 
