@@ -32,7 +32,7 @@ The dashboard enables stakeholders to:
 - Analyze category-level profitability performance
 - Evaluate regional differences in profitability efficiency
 
-Overall, the project shifts focus from revenue tracking to profit optimization, enabling better decision-making around product strategy, cost management, and business growth.
+Overall, the project shifts focus from revenue tracking to profit optimization,enabling better decision-making around category and sub-category strategy, cost management, and business growth.
 
 ---
 
@@ -148,7 +148,7 @@ These visualizations allow quick identification of high-performing categories, s
 The Sales Dashboard addresses the following business questions:
 
 - Which regions generate the highest sales?  
-- Which product categories contribute the most revenue?  
+- Which categories contribute the most revenue? 
 - Which customer segments generate the most sales?
 - Which state has the highest sales?  
 - How do sales fluctuate across different months?  
