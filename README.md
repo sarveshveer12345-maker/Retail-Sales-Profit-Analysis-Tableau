@@ -27,7 +27,7 @@ Regional and category-level differences further highlight that high sales volume
 
 The dashboard enables stakeholders to:
 
-- Identify high-profit vs low-profit products
+- Identify high-profit vs low-profit sub-categories
 - Detect profit concentration and dependency risks
 - Analyze category-level profitability performance
 - Evaluate regional differences in profit efficiency
@@ -60,10 +60,10 @@ Key objectives include:
 
 - Understanding sales performance across regions  
 - Identifying sub-categories that generate losses 
-- Evaluating profitability by product sub-category  
+- Evaluating profitability by sub-category  
 - Measuring salesperson performance  
 - Monitoring sales and profit trends over time  
-- Identifying products that generate losses
+- Identifying sub-categories that generate lossess
 
 ---
 
@@ -140,7 +140,7 @@ The Sales Dashboard includes:
 - Sales performance by salesperson  
 - Sales comparison by region
   
-These visualizations allow quick identification of high-performing products and regions.
+These visualizations allow quick identification of high-performing categories and sub-categories and regions.
 
 ---
 
@@ -233,9 +233,9 @@ These visuals help identify profitability drivers and potential business risks.
 The Profit Dashboard focuses on answering the following questions:
 
 - Which regions generate the highest profit?  
-- Which products deliver the best profit margins?  
+- Which sub-categories deliver the best profit margins?
 - Which salespersons contribute most to profitability?
-- Which products generate losses?
+- Which sub-categories generate losses?
 - How does profit change over time?
 - Which state generates losses?
 
@@ -263,7 +263,7 @@ Key profitability metrics include:
      
 - The Tables sub-category generates negative profit.  
  
-- Profit fluctuates throughout the year indicating varying sales performance.
+- Profit fluctuates throughout the year, indicating variability in overall performance.
 
 - Punjab and Tamil Nadu generate negative profit.
 
@@ -423,13 +423,10 @@ This structure ensures clarity and easy navigation.
 
 ## Dataset Limitations
 
-While the dataset provides useful insights, it has certain limitations:
-
-- The dataset contains only 20 transactions which limits large-scale trend analysis  
-- The dataset represents a simplified retail scenario  
+- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than conclusive
+- The dataset contains only 20 transactions which limits large-scale trend analysis
+- The dataset represents a simplified retail scenario
 - Additional variables such as product cost, inventory levels, and customer lifetime value could enable deeper analysis
-
-Despite these limitations, the dataset effectively demonstrates the data analytics workflow and visualization techniques.
 
 ---
 
