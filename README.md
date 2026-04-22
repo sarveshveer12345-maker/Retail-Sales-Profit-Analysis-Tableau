@@ -30,7 +30,7 @@ The dashboard enables stakeholders to:
 - Identify high-profit vs low-profit sub-categories
 - Detect profit concentration and dependency risks
 - Analyze category-level profitability performance
-- Evaluate regional differences in profit efficiency
+- Evaluate regional differences in profitability efficiency
 
 Overall, the project shifts focus from revenue tracking to profit optimization, enabling better decision-making around product strategy, cost management, and business growth.
 
@@ -262,7 +262,7 @@ Key profitability metrics include:
      
 - The Tables sub-category generates negative profit.  
  
-- Profit fluctuates throughout the year, indicating variability in overall performance.
+- Profit fluctuates throughout the year, indicating inconsistent profitability performance.
 
 - Punjab and Tamil Nadu generate negative profit.
 
@@ -271,7 +271,7 @@ Key profitability metrics include:
 
 - Focus marketing and inventory efforts in the West region to maximize profitability in the highest profit-generating market.
 
-- Promote high-margin products like laptops and phones to further increase overall profit.
+- Promote high-margin sub-categories like laptops and phones to further increase overall profit.
 
 - Analyze and replicate the sales strategies of Soumya and Pooja to improve overall team profitability.
 
@@ -287,7 +287,7 @@ Key profitability metrics include:
 
 The analysis shows that business performance is profit-driven but uneven, with a significant portion of total profit coming from a limited number of categories and sub-categories.
 
-While revenue remains strong, profit distribution is concentrated, creating risk if key segments underperform. Additionally, the presence of lower-profit sub-categories suggests inefficiencies in the current product mix.
+While revenue remains strong, profit distribution is concentrated, creating risk if key segments underperform. Additionally, the presence of lower-profit sub-categories suggests inefficiencies in the current category and sub-category mix.
 
 Regional and category-level variations indicate that not all sales contribute equally to business value, reinforcing the need to evaluate performance beyond revenue.
 
@@ -423,7 +423,6 @@ This structure ensures clarity and easy navigation.
 ## Dataset Limitations
 
 - The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than conclusive.
-- The dataset contains only 20 transactions which limits large-scale trend analysis
 - The dataset represents a simplified retail scenario
 - Additional variables such as product cost, inventory levels, and customer lifetime value could enable deeper analysis
 
