@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes retail sales transactions across different regions of India to understand sales performance, profitability trends, product performance, and salesperson effectiveness.
+This project analyzes retail sales transactions across different regions of India to understand sales performance, profitability trends, category and sub-category performance, and salesperson effectiveness.
 
 The analysis follows a structured data analytics workflow:
 
@@ -23,7 +23,7 @@ This project analyzes retail sales and profitability to identify not just revenu
 
 The analysis reveals that while certain categories and sub-categories generate strong sales, profitability is uneven and often concentrated in a limited set of high-performing segments. At the same time, some sub-categories contribute to revenue but deliver weak profit, indicating potential inefficiencies in category and sub-category mix and cost structure.
 
-Regional and category-level differences further highlight that high sales volume does not always translate into strong profit performance, suggesting gaps in pricing, cost control, or product strategy.
+Regional and category-level differences further highlight that high sales volume does not always translate into strong profit performance, suggesting gaps in pricing, cost control, or category and sub-category strategy.
 
 The dashboard enables stakeholders to:
 
@@ -48,7 +48,7 @@ Management is interested in identifying:
 - Which sub-categories are generating losses   
 - How sales and profits change throughout the year  
 
-The insights from this analysis can help the company improve pricing strategies, optimize inventory planning, and focus on profitable product segments.
+The insights from this analysis can help the company improve pricing strategies, optimize inventory planning, and focus on profitable segments and sub-categories.
 
 ---
 
