@@ -178,7 +178,7 @@ Key metrics included in the sales dashboard:
 
 - Haryana state accounts for a large portion of total sales with ₹61K.
 
-- Sales fluctuate across different months, suggesting seasonal demand patterns.
+- Sales fluctuate across different months, indicating variability in performance.
 
 - Soumya is the top-performing sales representative, contributing a significant share of total sales.
 
@@ -256,14 +256,14 @@ Key profitability metrics include:
 
 - The West region contributes the highest share of total profit.
 
-- Laptops and Phones generate the highest profits among sub-categories.
+- Laptops and Phones appear as the highest profit-contributing sub-categories in the dataset.
   
 - Soumya and Pooja are top-performing salespersons in terms of profitability.
      
 - The Tables sub-category generates negative profit.  
  
-- Profit fluctuates throughout the year, indicating inconsistent profitability performance.
-
+- Profit varies across months, indicating inconsistent profitability performance.
+  
 - Punjab and Tamil Nadu generate negative profit.
 
 
@@ -277,7 +277,7 @@ Key profitability metrics include:
 
 - Review pricing, costs, and discount strategies for the Tables sub-category to address negative profit.
 
-- Improve demand forecasting and seasonal promotions to manage profit fluctuations throughout the year.
+- Improve demand planning and targeted promotions based on observed monthly variations.
 
 - Investigate pricing, logistics, and discount strategies in Punjab and Tamil Nadu to reduce losses and improve profitability.
 
