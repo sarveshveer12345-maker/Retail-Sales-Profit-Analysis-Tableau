@@ -21,7 +21,7 @@ These dashboards provide business insights that help identify revenue drivers, p
 
 This project analyzes retail sales and profitability to identify not just revenue performance, but where the business is actually making or losing money.
 
-The analysis reveals that while certain categories and sub-categories generate strong sales, profitability is uneven and often concentrated in a limited set of high-performing segments. At the same time, some sub-categories contribute to revenue but deliver weak profit, indicating potential inefficiencies in product mix and cost structure.
+The analysis reveals that while certain categories and sub-categories generate strong sales, profitability is uneven and often concentrated in a limited set of high-performing segments. At the same time, some sub-categories contribute to revenue but deliver weak profit, indicating potential inefficiencies in category and sub-category mix and cost structure.
 
 Regional and category-level differences further highlight that high sales volume does not always translate into strong profit performance, suggesting gaps in pricing, cost control, or product strategy.
 
@@ -63,7 +63,6 @@ Key objectives include:
 - Evaluating profitability by sub-category  
 - Measuring salesperson performance  
 - Monitoring sales and profit trends over time  
-- Identifying sub-categories that generate lossess
 
 ---
 
@@ -140,7 +139,7 @@ The Sales Dashboard includes:
 - Sales performance by salesperson  
 - Sales comparison by region
   
-These visualizations allow quick identification of high-performing categories and sub-categories and regions.
+These visualizations allow quick identification of high-performing categories, sub-categories, and regions.
 
 ---
 
@@ -257,7 +256,7 @@ Key profitability metrics include:
 
 - The West region contributes the highest share of total profit.
 
-- Laptops and phones generate the highest profits among product categories.
+- Laptops and Phones generate the highest profits among sub-categories.
   
 - Soumya and Pooja are top-performing salespersons in terms of profitability.
      
@@ -423,7 +422,7 @@ This structure ensures clarity and easy navigation.
 
 ## Dataset Limitations
 
-- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than conclusive
+- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than conclusive.
 - The dataset contains only 20 transactions which limits large-scale trend analysis
 - The dataset represents a simplified retail scenario
 - Additional variables such as product cost, inventory levels, and customer lifetime value could enable deeper analysis
