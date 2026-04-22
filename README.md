@@ -77,9 +77,12 @@ Below is a preview of the dataset used for this analysis.
 
 ## Dataset Information
 
-The dataset contains **20 retail sales transactions** recorded during the year **2023** across different regions of India.
+### Dataset Limitations
 
-Each record represents an individual order containing location, product category, revenue, and profit information.
+- The small dataset size (20 transactions) limits the reliability of trends and patterns, and insights should be interpreted as directional rather than    conclusive
+- The dataset contains only 20 transactions which limits large-scale trend analysis
+- The dataset represents a simplified retail scenario
+- Additional variables such as product cost, inventory levels, and customer lifetime value could enable deeper analysis
 
 ### Dataset Fields
 
@@ -141,7 +144,7 @@ The Sales Dashboard includes:
 - Sales contribution by sub-category
 - Sales contribution by category
 - Sales contribution by customer segment  
-- Sales performnce by salesperson  
+- Sales performance by salesperson  
 - Sales comparison by region
   
 These visualizations allow quick identification of high-performing products and regions.
@@ -181,11 +184,11 @@ Key metrics included in the sales dashboard:
 
 - The Consumer segment generates the highest sales, showing that individual customers dominate the market.
 
-- Haryana state account for a large portion of total sales with 61k.
+- Haryana state accounts for a large portion of total sales with ₹61k.
 
 - Sales fluctuate across different months, suggesting seasonal demand patterns.
 
-- Soumya is the top-performing sales representative, contributing a significant share of total revenue.
+- Soumya is the top-performing sales representative, contributing a significant share of total sales.
 
 
 ### Business Recommendations
@@ -196,7 +199,7 @@ Key metrics included in the sales dashboard:
 
 - Implement targeted marketing campaigns for the Consumer segment to increase retention and repeat purchases.
 
-- Replicate successful sales strategies from high-performing states in lower-performing states like Gujrat, Odisha and Himachal Pradesh.
+- Replicate successful sales strategies from high-performing states in lower-performing states like Gujarat, Odisha and Himachal Pradesh.
 
 - Plan seasonal promotions and demand forecasting to handle monthly sales fluctuations.
 
@@ -241,7 +244,7 @@ The Profit Dashboard focuses on answering the following questions:
 - Which salespersons contribute most to profitability?
 - Which products generate losses?
 - How does profit change over time?
-- Which state generate losses?
+- Which state generates losses?
 
 ---
 
@@ -308,13 +311,11 @@ A more balanced and profit-focused strategy will be critical for long-term succe
 
 ## Strategic Takeaway
 
-The business is generating revenue effectively, but profit performance is concentrated and inconsistent, indicating a need to shift from sales-driven growth to margin-optimized strategy.
+The business is generating revenue effectively, but profitability is uneven across regions, products, and sales channels.
 
-Sustainable growth will depend on:
+A significant portion of profit is driven by specific products (e.g., laptops, phones) and top-performing salespersons, while certain sub-categories (such as Tables) and regions contribute negatively.
 
-- Expanding high-margin product segments
-- Reducing reliance on a few profit-driving products
-- Improving profitability across underperforming categories
+To achieve sustainable growth, the business must shift from overall sales growth to consistent profit generation across products, regions, and sales teams.
 
 ---
 
@@ -322,10 +323,10 @@ Sustainable growth will depend on:
 
 If these recommendations are implemented, the business can:
 
-- Improve overall profit margins by prioritizing high-margin products and reducing focus on low-profit items
-- Increase revenue efficiency by aligning sales strategies with profit contribution rather than just sales volume
-- Reduce dependency on a limited number of profit-driving products, lowering business risk
-- Enable better category and regional decision-making based on profitability rather than only revenue performance
+- Improve profit margins by addressing loss-making sub-categories such as Tables and optimizing pricing or cost structures
+- Increase profitability by focusing on high-performing product segments like laptops and phones
+- Reduce financial losses by fixing underperforming regions such as Punjab and Tamil Nadu
+- Improve sales team effectiveness by scaling strategies used by top performers like Soumya and Pooja
 
 ---
 
@@ -339,20 +340,11 @@ If these recommendations are implemented, the business can:
 
 ## Next Steps / Future Analysis
 
-1. Product-Level Profitability Deep Dive
-- Identify consistently low-margin or loss-making products
-- Evaluate whether to discontinue, reprice, or reposition them
-
-2. Profit vs Sales Trade-off Analysis
-- Compare high-sales low-profit vs low-sales high-profit products
-
-3. Category Margin Optimization
-- Analyze profit margins across categories
-- Identify which categories need cost or pricing adjustments
-
-4. Regional Profit Efficiency Analysis
-- Compare revenue vs profit contribution across regions
-- Identify regions with strong sales but weak margins
+- Perform deeper analysis of loss-making sub-categories (e.g., Tables) to determine root causes such as pricing, cost, or discounting
+- Conduct region-wise profitability diagnostics for states like Punjab and Tamil Nadu to identify operational inefficiencies
+- Analyze salesperson performance patterns to replicate strategies used by top performers
+- Evaluate the impact of discounts on profit margins to identify optimal pricing strategies
+- Expand dataset size to validate trends and improve reliability of insights
 
 ---
 
